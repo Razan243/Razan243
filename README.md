@@ -1,7 +1,9 @@
 ![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/DEEP%20LEARNING-8E44AD?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/DATA%20SCIENCE-3498DB?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/DATA%20ANALYSIS-2E86C1?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20AGENTS-6C3483?style=for-the-badge)
+
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
@@ -77,11 +79,11 @@ I enjoy building practical projects, solving problems, and continuously learning
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/razan-gewaily-6970a238a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_KAGGLE_LINK">
+<a href="https://www.kaggle.com/razangewaily">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
