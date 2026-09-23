@@ -1,7 +1,7 @@
 # Razan Reda
 
 **AI & Data Science Student**
-* AI Engineering  • AI Agents   • Machine Learning  • Data Science  • Data Analysis
+*Machine Learning • Data Science • Data Analysis • AI Engineering • AI Agents*
 
 ---
 
@@ -9,7 +9,7 @@
 
 I'm a Computer Science student specializing in **Artificial Intelligence**, with a strong interest in **Machine Learning, Data Science, Data Analysis, and AI Engineering**.
 
-I have completed a **Machine Learning track** and I'm currently expanding my skills in **Data Science, Python, Data Analysis, and AI Agents**.
+I have completed a **Machine Learning track** and I'm currently expanding my skills in **Data Science, Python, Data Analysis, AI Agents, and Generative AI**.
 
 I enjoy building practical projects, solving problems, and continuously learning new technologies to turn data and AI concepts into real-world solutions.
 
@@ -32,25 +32,23 @@ I enjoy building practical projects, solving problems, and continuously learning
 - 🔗 **AI Agent Systems**
   - Exploring AI agents, multi-agent systems, and intelligent workflows.
 
+- ✨ **Generative AI Applications**
+  - Exploring LLM-based applications and AI-powered solutions.
+
 - 🐍 **Python-based Projects**
   - Building AI, data science, and automation projects using Python.
-
-- 🌐 **AI-powered Applications**
-  - Turning AI concepts into practical applications and solutions.
 
 ---
 
 ## 📌 Featured Work
 
-I'm interested in building practical projects in:
+### 🏥 NightShift MD — MediCore AI
 
-- Machine Learning
-- Data Analysis
-- Data Science
-- Artificial Intelligence
-- AI Agents
-- Generative AI
-- AI Engineering
+An AI-powered medical system designed to process patient information and provide a **structured triage assessment and clinical summary** to support medical staff.
+
+The project explores the use of **AI Agents, Generative AI, and structured information processing** for healthcare applications.
+
+🔗 **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/razangewaily/NightShift_MD_MediCore_AI)
 
 ---
 
@@ -91,6 +89,7 @@ I'm interested in collaborating on projects related to:
 - Data Analysis
 - Data Science
 - AI Agents
+- Generative AI
 - AI-powered Applications
 
 I'm always open to learning, building, and exploring new ideas.
@@ -123,10 +122,11 @@ I'm always open to learning, building, and exploring new ideas.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
@@ -159,6 +159,19 @@ I'm always open to learning, building, and exploring new ideas.
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
+<a href="https://huggingface.co/razangewaily">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning. Keep Building. Keep Growing. 🚀
+
+</div>
 </div>
 
 ---
