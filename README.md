@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Razan Reda
+# Razan Reda
 
 **AI & Data Science Student**
-
-*Machine Learning • Data Science • Data Analysis • AI Engineering • AI Agents*
+* AI Engineering  • AI Agents  • Machine Learning • Data Science • Data Analysis*
 
 ---
 
@@ -31,10 +30,10 @@ I enjoy building practical projects, solving problems, and continuously learning
   - Developing applications that use Artificial Intelligence to solve real-world problems.
 
 - 🔗 **AI Agent Systems**
-  - Exploring multi-agent systems and AI-powered workflows.
+  - Exploring AI agents, multi-agent systems, and intelligent workflows.
 
 - 🐍 **Python-based Projects**
-  - Building data, AI, and automation projects using Python.
+  - Building AI, data science, and automation projects using Python.
 
 - 🌐 **AI-powered Applications**
   - Turning AI concepts into practical applications and solutions.
@@ -43,30 +42,31 @@ I enjoy building practical projects, solving problems, and continuously learning
 
 ## 📌 Featured Work
 
-I'm currently building and improving projects in:
+I'm interested in building practical projects in:
 
-- 🤖 Machine Learning
-- 📊 Data Analysis
-- 📈 Data Science
-- 🧠 Artificial Intelligence
-- 🔗 AI Agents
-- ⚙️ AI Engineering
+- Machine Learning
+- Data Analysis
+- Data Science
+- Artificial Intelligence
+- AI Agents
+- Generative AI
+- AI Engineering
 
 ---
 
 ## 📚 Research & Continuous Learning
 
-I'm continuously learning and exploring topics related to:
+I'm continuously learning and exploring:
 
-- Machine Learning
-- Data Science
-- Data Analysis
-- Artificial Intelligence
-- Generative AI
-- AI Agents
-- AI Engineering
-- Python
-- SQL
+- 🤖 Machine Learning
+- 📊 Data Analysis
+- 📈 Data Science
+- 🧠 Artificial Intelligence
+- ✨ Generative AI
+- 🔗 AI Agents
+- ⚙️ AI Engineering
+- 🐍 Python
+- 🗄️ SQL
 
 ---
 
@@ -74,9 +74,9 @@ I'm continuously learning and exploring topics related to:
 
 - 📊 **Data Analysis**
 - 📈 **Data Science**
-- 🧠 **Machine Learning**
+- 🤖 **Machine Learning**
 - 🔗 **AI Agents**
-- 🤖 **Generative AI**
+- ✨ **Generative AI**
 - ⚙️ **AI Engineering**
 - 🐍 **Advanced Python**
 
@@ -86,59 +86,48 @@ I'm continuously learning and exploring topics related to:
 
 I'm interested in collaborating on projects related to:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Analysis
-- 📈 Data Science
-- 🔗 AI Agents
-- 🌐 AI-powered Applications
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- Data Science
+- AI Agents
+- AI-powered Applications
 
-I'm always open to learning, building, and working on new ideas.
+I'm always open to learning, building, and exploring new ideas.
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-## 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6C3483?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-5E35B1?style=for-the-badge)
 
-## ✨ Generative AI
+### ✨ Generative AI & AI Engineering
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-6C3483?style=for-the-badge)
 
-## 📊 Data Science & Data Analysis
+### 📊 Data Science & Data Analysis
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-3498DB?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2E86C1?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 💻 Programming
+### 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-## 🔧 Tools
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- 📊 **Data Analysis**
-- 📈 **Data Science**
-- 🐍 **Advanced Python**
-- 🔗 **AI Agents**
-- 🧠 **Generative AI**
-- ⚙️ **AI Engineering**
 
 ---
 
