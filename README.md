@@ -178,6 +178,5 @@ I'm always open to learning, building, and exploring new ideas.
 
 <div align="center">
 
-### ✨ Keep Learning. Keep Building. Keep Growing. 🚀
 
 </div>
