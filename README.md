@@ -2,7 +2,7 @@
 
 **AI & Data Science Student**
 
-*Machine Learning • Data Science • AI Agents*
+*Machine Learning • Data Science • AI Engineering • AI Agents*
 
 ---
 
@@ -19,64 +19,111 @@ I enjoy building practical projects, solving problems, and continuously learning
 ## 🚀 What I Build
 
 - 🤖 **Machine Learning Projects**
-  - Practical ML models and experiments
+  - Building and experimenting with practical machine learning models.
 
 - 📊 **Data Science & Data Analysis Projects**
-  - Exploring data, extracting insights, and building data-driven solutions
+  - Exploring data, analyzing patterns, and extracting meaningful insights.
 
 - 🧠 **AI Applications**
-  - Applying AI concepts to real-world problems
+  - Applying artificial intelligence concepts to practical problems.
 
 - 🔗 **AI Agent Systems**
-  - Exploring intelligent agents and AI-powered workflows
+  - Exploring AI agents and intelligent AI-powered workflows.
 
 - 🐍 **Python-based Projects**
-  - Building practical applications and solving technical problems
+  - Developing practical solutions and applications using Python.
+
+- 🌐 **AI-powered Applications**
+  - Building applications that integrate AI to solve real-world problems.
 
 ---
 
 ## 📌 Featured Work
 
-Projects and learning work focused on:
+My projects and learning work focus on:
 
 - 🤖 Machine Learning & AI Projects
-- 📊 Data Analysis & Data Science
+- 📊 Data Science & Data Analysis
 - 🧠 Artificial Intelligence Applications
 - 🔗 AI Agents & Intelligent Systems
-- 🐍 Python Projects
-- 💻 Practical Problem-Solving Projects
+- 🐍 Python-based Applications
+- 🌐 AI-powered Solutions
+
+---
+
+## 📚 Research & Continuous Learning
+
+I am continuously developing my knowledge and practical skills through courses, technical resources, hands-on projects, and experimentation.
+
+Currently exploring:
+
+- 📊 **Data Science**
+- 🐍 **Advanced Python**
+- 📈 **Data Analysis**
+- 🔗 **AI Agents**
+- 🧠 **Generative AI**
+- ⚙️ **AI Engineering**
+
+I enjoy continuously learning new technologies and applying what I learn through practical projects.
+
+---
+
+## 🎯 Current Focus
+
+My current focus is on strengthening my skills in:
+
+- Machine Learning
+- Data Science
+- Data Analysis
+- Python
+- AI Agents
+- Generative AI
+- AI Engineering
+
+My goal is to build a strong technical foundation and create practical **AI and data-driven solutions**.
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+I am interested in:
+
+- 🤖 AI & Machine Learning projects
+- 📊 Data Science & Data Analysis projects
+- 🔗 AI Agent and Generative AI projects
+- 🌐 AI-powered applications
+- 💻 Open-source projects and technical collaboration
+- 📚 Learning and building with other developers
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Core AI & Machine Learning
+### 🤖 Core AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/DEEP%20LEARNING-8E44AD?style=for-the-badge)
-![ANN](https://img.shields.io/badge/ANN-6C3483?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-2874A6?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-17A2B8?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-6C3483?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20AGENTS-5E35B1?style=for-the-badge)
 
-### Generative AI & AI Agents
+### 🧠 Generative AI
 
 ![Generative AI](https://img.shields.io/badge/GENERATIVE%20AI-000000?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMS-4CAF50?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20AGENTS-6C3483?style=for-the-badge)
 
-### Data Science & Data Analysis
+### 📊 Data Science & Data Analysis
 
 ![Data Science](https://img.shields.io/badge/DATA%20SCIENCE-3498DB?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/DATA%20ANALYSIS-2E86C1?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Programming Languages
+### 💻 Programming
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Tools
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -84,48 +131,36 @@ Projects and learning work focused on:
 
 ---
 
-## 📚 Research & Continuous Learning
+## 📊 GitHub Activity
 
-I am continuously developing my knowledge and practical skills in:
+<div align="center">
 
-- 📊 Data Science & Data Analysis
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 🔗 AI Agents
-- 🧬 Generative AI
-- 🐍 Python & Data Processing
+<img src="https://github-readme-stats.vercel.app/api?username=Razan243&show_icons=true&theme=tokyonight&hide_border=true" />
 
-I enjoy learning through **courses, technical resources, hands-on projects, and experimentation**.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Razan243&theme=tokyonight&hide_border=true" />
 
----
-
-## 🎯 Current Focus
-
-My current focus is on building a strong foundation in **Data Science and AI Engineering**, while developing practical projects that combine:
-
-- Data
-- Machine Learning
-- Artificial Intelligence
-- Python
-- AI Agents
-
-My goal is to keep improving my technical skills and gradually build **real-world AI solutions**.
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:**  
-  https://www.linkedin.com/in/razan-gewaily-6970a238a/
+<div align="center">
 
-- 📊 **Kaggle:**  
-  https://www.kaggle.com/razangewaily
+<a href="https://www.linkedin.com/in/razan-gewaily-6970a238a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 💻 **GitHub:**  
-  https://github.com/Razan243
+<a href="https://www.kaggle.com/razangewaily">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
----
+<div align="center">
 
-⭐ **Always learning. Always building. Always improving.**
+### ✨ Keep Learning. Keep Building. Keep Growing. 🚀
+
+</div>
