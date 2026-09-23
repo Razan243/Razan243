@@ -1,7 +1,7 @@
 # Razan Reda
 
 **AI & Data Science Student**
-* AI Engineering  • AI Agents  • Machine Learning • Data Science • Data Analysis
+* AI Engineering  • AI Agents   • Machine Learning  • Data Science  • Data Analysis
 
 ---
 
